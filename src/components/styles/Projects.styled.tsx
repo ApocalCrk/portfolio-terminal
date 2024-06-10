@@ -22,3 +22,14 @@ export const ProjectDesc = styled.div`
   line-height: 1.5rem;
   max-width: 500px;
 `;
+
+export const ListProjectLink = styled.div`
+  color: ${({ theme }) => theme.colors?.text[300]};
+  margin-top: 0.25rem;
+  a + a {
+    margin-left: 0.8rem;
+  }
+  line-height: 1.5rem;
+  display: flex;
+  max-width: 500px;
+`;

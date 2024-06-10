@@ -60,7 +60,7 @@ const socials = [
   {
     id: 2,
     title: "Linkedin",
-    url: "https://www.linkedin.com/in/ferdy-firmansyah-126518204/",
+    url: "https://www.linkedin.com/in/ferdyfrms/",
     tab: 1,
   },
   {

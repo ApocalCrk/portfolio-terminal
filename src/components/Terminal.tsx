@@ -31,7 +31,6 @@ export const commands: Command = [
   { cmd: "clear", desc: "clear the terminal", tab: 8 },
   { cmd: "education", desc: "my education background", tab: 4 },
   { cmd: "email", desc: "send an email to me", tab: 8 },
-  { cmd: "gui", desc: "go to my portfolio in GUI", tab: 10 },
   { cmd: "help", desc: "check available commands", tab: 9 },
   { cmd: "projects", desc: "view projects that I've coded", tab: 5 },
   { cmd: "ls", desc: "print current working directory", tab: 11 },

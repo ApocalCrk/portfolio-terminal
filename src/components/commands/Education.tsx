@@ -18,7 +18,7 @@ const Education: React.FC = () => {
 const eduBg = [
   {
     title: "S. Kom (Bachelor of Computer Science)",
-    desc: "Atma Jaya Yogyakarta University | 2021 - 2025 (Current)",
+    desc: "Atma Jaya Yogyakarta University | 2021 - Present",
   },
   {
     title: "Vocational High School",
