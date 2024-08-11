@@ -144,7 +144,7 @@ const projects = [
     id: 9,
     title: "Atma Kitchen Application",
     desc: "Atma Kitchen is a multifaceted food ordering platform offering cakes, snacks, and beverages.",
-    url: "https://google.com",
+    url: "#",
     githubUrl: [
       {
         title: "Backend",
@@ -157,6 +157,18 @@ const projects = [
       {
         title: "Mobile",
         url: "https://github.com/siwakasen/mobile_p3l"
+      }
+    ]
+  },
+  {
+    id: 10,
+    title: "Padukuhan Ngasem",
+    desc: "A website that contains information about Padukuhan Ngasem",
+    url: "https://ngasem.vercel.app/",
+    githubUrl: [
+      {
+        title: "Source Code",
+        url: "https://github.com/ApocalCrk/padukuhan-ngasem"
       }
     ]
   }
