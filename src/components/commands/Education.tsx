@@ -21,6 +21,10 @@ const eduBg = [
     desc: "Atma Jaya Yogyakarta University | 2021 - Present",
   },
   {
+    title: "Independent Study Program",
+    desc: "Infinite Learning | September 2024 - December 2024"
+  },
+  {
     title: "Vocational High School",
     desc: "SMKS Hasanah Pekanbaru | 2018 - 2021",
   }

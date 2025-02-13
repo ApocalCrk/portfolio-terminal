@@ -162,13 +162,33 @@ const projects = [
   },
   {
     id: 10,
-    title: "Padukuhan Ngasem",
+    title: "Community Web Platform Development",
     desc: "A website that contains information about Padukuhan Ngasem",
     url: "https://ngasem.vercel.app/",
     githubUrl: [
       {
         title: "Source Code",
         url: "https://github.com/ApocalCrk/padukuhan-ngasem"
+      }
+    ]
+  },
+  {
+    id: 11,
+    title: "Weather Prediction System with AI-based Crop Recommendations",
+    desc: "Web-based platform to optimize agricultural yields for farmers in Yogyakarta through AI driven solutions and accurate weather forecasts",
+    url: "https://mahitala-re.vercel.app/",
+    githubUrl: [
+      {
+        title: "Backend",
+        url: "https://github.com/ApocalCrk/mahitala-backend"
+      },
+      {
+        title: "Frontend",
+        url: "https://github.com/ApocalCrk/mahitala"
+      },
+      {
+        title: "Machine Learning",
+        url: "https://github.com/ApocalCrk/mahitala-ml"
       }
     ]
   }
